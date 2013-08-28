@@ -1,4 +1,4 @@
-breakouts
+Break-CP2103
 =========
 
-Eagle files for diverse single sided PCB's
+Eagle files for Silabs CP2103 USB-UART bridge - single sided PCB
